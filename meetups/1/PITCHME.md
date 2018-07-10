@@ -1,6 +1,6 @@
 ## メディア全方位戦は総力戦だった・・・
 
-![](/assets/images/hacking-hr-banner.png)
+![](/assets/images/oh.png)
 
 HashTag: #hackinghrs
 
