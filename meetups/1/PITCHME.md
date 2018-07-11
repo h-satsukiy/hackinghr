@@ -130,7 +130,7 @@ on 2017-05-08
 ---
 
 # Rperoにとって最適なメディアは？？
-![](/assets/pictures/cost_fee.png)
+![](/assets/images/cost_fee.png)
 
 ---
 
@@ -143,7 +143,7 @@ Green！！
 
 ---
 ## Wantedlyにはこんな強みも・・・
-![](/assets/pictures/heatmap.png)
+![](/assets/images/heatmap.png)
 
 出典：https://business.linkedin.com/talent-solutions/blog/job-descriptions/2018/job-description-heatmap
 
@@ -260,7 +260,7 @@ Green！！
 
 ---
 
-![](/assets/pictures/naoki_interview.png)
+![](/assets/images/naoki_interview.png)
 https://www.wantedly.com/companies/repro/post_articles/115672
 
 ---
@@ -295,7 +295,7 @@ https://www.wantedly.com/companies/repro/post_articles/115672
 
 # 総括
 ## フィードの閲覧数
-![](/assets/pictures/wantedly_feed.png)
+![](/assets/images/wantedly_feed.png)
 
 ※直近6ヶ月（2018年1月〜2018年6月）とそれ以前の6ヶ月（2017年7月〜2017年12月）との比較
 ※2018年7月8日現在
@@ -303,7 +303,7 @@ https://www.wantedly.com/companies/repro/post_articles/115672
 ---
 
 ## 募集
-![](/assets/pictures/wantedly_entry.png)
+![](/assets/images/wantedly_entry.png)
 
 ※直近6ヶ月（2018年1月〜2018年6月）とそれ以前の6ヶ月（2017年7月〜2017年12月）との比較
 ※2018年7月8日現在
