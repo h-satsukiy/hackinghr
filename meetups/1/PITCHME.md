@@ -114,7 +114,9 @@ on 2017-05-08
 
 ---
 
-#### Reproにとって最適なメディアは？？
+ <span style="font-size: 46pt">
+ Reproにとって最適なメディアは？
+ </span>
 ![](/assets/images/cost_fee.png)
 
 ---
