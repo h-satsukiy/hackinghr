@@ -1,12 +1,9 @@
 <div style="text-align: center;">
 
- <span style="font-size: 48pt">
-  メディア全方位戦は<br>
-  総力戦だった・・・ <br>
+ <span style="font-size: 46pt">
+  メディア全方位戦は総力戦だった・・・ <br>
  </span>
-</div>
 
-<div style="text-align: center;">
  <span style="font-size: 24pt">
   on 2018-07-18
  </span>
@@ -23,10 +20,17 @@
 
 ---
 
-### 眼ヂカラに気圧されるようにReproにjoin
-![](/assets/pictures/yusuke_eyepower.png)
+<div style="text-align: center;">
 
+ <span style="font-size: 36pt">
+眼ヂカラに気圧されるようにReproにjoin
+![](/assets/pictures/yusuke_eyepower.png)
+ </span>
+
+ <span style="font-size: 24pt">
 on 2017-05-08
+ </span>
+</div>
 
 ---
 
