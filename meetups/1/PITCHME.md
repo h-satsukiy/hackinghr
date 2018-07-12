@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   メディア全方位戦は総力戦だった・・・ <br>
- <span style="font-size:48pt">
+ <span style="color:red;font-size:48pt">
   on 2018-07-18
  </span>
 </div>
