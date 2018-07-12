@@ -182,7 +182,7 @@ on 2017-05-08
 
 ### Why プレミアムスカウト？
 
-### 候補者のフルネームをゲットできる！！
+#### 候補者のフルネームをゲットできる！！
 
 ---
 
@@ -248,7 +248,9 @@ on 2017-05-08
 
 ### フィードを投稿することで？
 
-![](/assets/images/naoki_interview.png)<br>
+![](/assets/images/naoki_interview.png)
+
+<br>
 [「Reproは僕にとって精神と時の部屋」](https://www.wantedly.com/companies/repro/post_articles/115672)
 
 ---
