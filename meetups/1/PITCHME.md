@@ -124,13 +124,12 @@ on 2017-05-08
 ## Wantedly！！
 ## Green！！
 
-ちょうどIT業界に強いメディアだし・・・
 
 ---
-## Wantedlyにはこんな強みも・・・
+### Wantedlyにはこんな強みも・・・
 ![](/assets/images/heatmap.png)
 
-出典：https://business.linkedin.com/talent-solutions/blog/job-descriptions/2018/job-description-heatmap
+出典：[Linkedin](https://business.linkedin.com/talent-solutions/blog/job-descriptions/2018/job-description-heatmap)
 
 ---
 
@@ -248,7 +247,7 @@ on 2017-05-08
 ## フィードを投稿することで？
 
 ![](/assets/images/naoki_interview.png)
-[「Reproは僕にとって精神と時の部屋」]https://www.wantedly.com/companies/repro/post_articles/115672
+[「Reproは僕にとって精神と時の部屋」](https://www.wantedly.com/companies/repro/post_articles/115672)
 
 ---
 
