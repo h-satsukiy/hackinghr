@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
- <span style="font-size=48pt">
+ <span style="font-size: 48pt">
   メディア全方位戦は総力戦だった・・・ <br>
  </span>
 
