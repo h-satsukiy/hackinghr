@@ -43,8 +43,8 @@ on HackingHR #1
 
 ### とりあえずメディアに出しとけば、採用なんとかなるんじゃない？？
 
-目につくメディアを手当たり次第利用
-Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, サンカク...
+- 目につくメディアを手当たり次第利用
+- Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, サンカク...
 
 ｰｰｰ
 
