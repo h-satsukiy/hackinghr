@@ -46,7 +46,7 @@ on HackingHR #1
 - 目につくメディアを手当たり次第利用
 - Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, サンカク...
 
-ｰｰｰ
+---
 
 ####　20ポジション ＊ 10媒体 ＝ 200求人！ 
 
