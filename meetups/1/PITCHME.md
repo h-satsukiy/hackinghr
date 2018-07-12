@@ -26,7 +26,7 @@
 眼ヂカラに気圧されるようにReproにjoin
 ![](/assets/pictures/yusuke_eyepower.png)
  </span>
-
+ <br>
  <span style="font-size: 24pt">
 on 2017-05-08
  </span>
