@@ -4,9 +4,6 @@
   メディア全方位戦は総力戦だった・・・ <br>
  </span>
 
- <span style="font-size=24pt">
-  on 2018-07-18
- </span>
 </div>
 
 ---
