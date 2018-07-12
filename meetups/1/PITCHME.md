@@ -1,9 +1,9 @@
 <div style="text-align: center;">
 
- <span style="font-size: 46pt">
+ <span style="font-size: 44pt">
   メディア全方位戦は総力戦だった・・・ <br>
  </span>
-
+ <br>
  <span style="font-size: 24pt">
   on 2018-07-18
  </span>
@@ -16,12 +16,11 @@
 
  - 畑中 五月（ハタナカ サツキ）
  - 新卒でドイツ製ERPパッケージの導入コンサル会社に入社し、SE・導入コンサルに長らく従事
- - その後知人のツテに代表の平田に会い、、、
+ - その後知人のツテで代表の平田に会い、、、
 
 ---
 
 <div style="text-align: center;">
-
  <span style="font-size: 36pt">
 眼ヂカラに気圧されるようにReproにjoin
 ![](/assets/pictures/yusuke_eyepower.png)
@@ -34,37 +33,39 @@ on 2017-05-08
 
 ---
 
-<font size="25">
- <div style="text-align: center;">
-採用、よろしくね！<br>
- </div>
-</font>
+<div style="text-align: center;">
+ <span style="font-size: 52pt">
+採用、<br>
+よろしくね！！<br>
+ </span>
+</div>
 
 ---
 
-<font size="25">
- <div style="text-align: center;">
-メディア、なんとかして？？<br>
- </div>
-</font>
+<div style="text-align: center;">
+ <span style="font-size: 52pt">
+メディア、<br>
+なんとかしてね！！<br>
+ </span>
+</div>
 
 ---
 
-<font size="25">
- <div style="text-align: center;">
-　え！？
- </div>
-</font>
+<div style="text-align: center;">
+ <span style="font-size: 62pt">
+え！？
+ </span>
+</div>
 
 ---
 
-<font size="15">
- <div style="text-align: center;">
+<div style="text-align: center;">
+ <span style="font-size: 48pt">
 ＿人人人人人人人人人人人＿<br>
 ＞　採用未経験だけど！？　＜<br>
 ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣<br>
- </div>
-</font>
+ </span>
+</div>
 
 ---
 
@@ -72,21 +73,21 @@ on 2017-05-08
 
 ---
 
-<font size="15">
- <div style="text-align: center;">
+<div style="text-align: center;">
+ <span style="font-size: 42pt">
 そもそもどのメディアを使うべきかなんて<br>
 まったくわからん！
- </div>
-</font>
+ </span>
+</div>
 
 ---
 
-<font size="15">
- <div style="text-align: center;">
+<div style="text-align: center;">
+ <span style="font-size: 42pt">
 どれがうちの会社に合ってるの！？<br>
-そもそも、これどうやって活用すればいいの！？<br>
- </div>
-</font>
+そもそも、これどうやって活用すればいいの！？
+ </span>
+</div>
 
 ---
 
