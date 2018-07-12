@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
- <font size="25">
+ <font size="50">
   メディア全方位戦は総力戦だった・・・ <br>
  </font>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 眼ヂカラに気圧されるようにReproにjoin
+### 眼ヂカラに気圧されるようにReproにjoin
 ![](/assets/pictures/yusuke_eyepower.png)
 
 on 2017-05-08
