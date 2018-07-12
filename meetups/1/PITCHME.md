@@ -15,10 +15,11 @@ on HackingHR #1
 
 ### この人に誘われました
 
-＿人人人人人人人人人＿
-＞　圧倒的目ヂカラ　＜
-￣Y^Y^Y^Y^Y^Y^Y^Y￣
+＿人人人人人人人人人＿<br>
+＞　圧倒的目ヂカラ　＜<br>
+￣Y^Y^Y^Y^Y^Y^Y^Y￣<br>
 
+<br>
 ![](/assets/pictures/yusuke_eyepower.png)
 
 ---
