@@ -21,46 +21,35 @@
  
 ---
 
-## 眼ヂカラに気圧されるようにReproにjoin
+<div style="text-align: center;">
+ <span style="font-size: 52pt">
+眼ヂカラに気圧されるようにReproにjoin<br>
 ![](/assets/pictures/yusuke_eyepower.png)
  </span>
- <br>
- <span style="font-size: 24pt">
+</div>
+
+<br>
 on 2017-05-08
- </span>
-</div>
 
 ---
 
-<div style="text-align: center;">
- <span style="font-size: 62pt">
-採用、よろしくね！！<br>
- </span>
-</div>
+## 採用、よろしくね！！（平田）
 
 ---
 
-<div style="text-align: center;">
- <span style="font-size: 62pt">
-メディア、なんとかしてね！！<br>
- </span>
-</div>
+## メディア、なんとかしてね！！（平田）
 
 ---
 
-<div style="text-align: center;">
- <span style="font-size: 72pt">
-え！？
- </span>
-</div>
+# え！？（私）
 
 ---
 
 <div style="text-align: center;">
  <span style="font-size: 52pt">
-＿人人人人人人人人人人人＿<br>
-＞　採用未経験だけど！？　＜<br>
-￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣<br>
+＿人人人人人人人人人人人人人人＿<br>
+＞　採用未経験だけど！？！？　＜<br>
+￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣<br>
  </span>
 </div>
 
@@ -70,82 +59,77 @@ on 2017-05-08
 
 ---
 
-<div style="text-align: center;">
- <span style="font-size: 42pt">
-そもそもどのメディアを使うべきかなんて<br>
-まったくわからん！
- </span>
-</div>
+## そもそもどのメディアを使うべきかなんてまったくわからん！
 
 ---
 
-<div style="text-align: center;">
- <span style="font-size: 42pt">
-どれがうちの会社に合ってるの！？<br>
-そもそも、これどうやって活用すればいいの！？
- </span>
-</div>
+## どれがうちの会社に合ってるの！？
 
 ---
 
-# 今日話すこと
-
- - メディア運用にも戦略が必要！
-  - Reproで採用している戦略とは！？
+## そもそも、これどうやって活用すればいいの！？
 
 ---
 
-# 今日話さないこと
+## 今日話すこと
 
- - 世の中にはどんなメディアが存在しているのか
- - どのメディアが（相対的に）イケてるのか、イケていないのか
+- Reproで採用したメディア
 
----
-
-# 入社したての頃
-
- - 右も左もわからないまま、それまでReproがアカウント開設をしていたメディアすべてを、全力運用
-  - Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra...
+- そのメディアの運用戦略
 
 ---
 
-# 総力戦の結果・・・
- - メディアごとに、掲載されている求人条件がばらばら
- - 求人条件と応募者のミスマッチ
- - 応募者に対する対応漏れ → メディアからの督促
- - Updateされていない求人や、督促メールを見た社員からの、痛いツッコミ
- - 完全に受け身の仕事しかできていない自分に対する、焦り、不安・・・
+## 今日話さないこと
+
+- 世の中にはどんなメディアが存在しているのか
+
+- どのメディアが（相対的に）イケてるのか、イケていないのか
 
 ---
 
-<font size="15">
- <div style="text-align: center;">
-何もできていないのに<br>
+## 入社したての頃
+
+- 右も左もわからないまま、それまでReproがアカウント開設をしていたメディアすべてを、全力運用
+
+- Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra...
+
+---
+
+## 総力戦の結果・・・
+
+- メディアごとに、掲載されている求人条件がばらばら
+
+- 求人条件と応募者のミスマッチ
+
+- 応募者に対する対応漏れ → メディアからの督促
+
+- Updateされていない求人や、督促メールを見た社員からの、痛いツッコミ
+
+- 完全に受け身の仕事しかできていない自分に対する、焦り、不安・・・
+
+---
+
+## 地獄のような日々・・・
+
+何もできていないのに
+
 ただただ忙しくて不安な状況に！
- </div>
-</font>
 
 ---
 
-<font size="15">
- <div style="text-align: center;">
-とりあえずメディア絞らなきゃ！！
- </div>
-</font>
+## とりあえずメディア絞らなきゃ！！
 
 ---
 
-# Rperoにとって最適なメディアは？？
+## Reproにとって最適なメディアは？？
 ![](/assets/images/cost_fee.png)
 
 ---
 
-<font size="15">
- <div style="text-align: center;">
-Wantedly！！<br>
-Green！！
- </div>
-</font>
+## Wantedly！！
+## Green！！
+
+ちょうどIT業界に強いメディアだし・・・
 
 ---
 ## Wantedlyにはこんな強みも・・・
@@ -155,19 +139,11 @@ Green！！
 
 ---
 
-<font size="15">
- <div style="text-align: center;">
-メディア運営を戦略的に行うために大事なことって？
- </div>
-</font>
+## メディア運営を戦略的に行うために大事なことって？
 
 ---
 
-<font size="15">
- <div style="text-align: center;">
-量と質の担保！！
- </div>
-</font>
+# 量と質の担保！！
 
 ---
 
