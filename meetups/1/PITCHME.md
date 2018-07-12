@@ -1,6 +1,7 @@
-## メディアいっぱい使ってみた 
+## メディアをいっぱい
+## 使ってみた 
 
-Satsuki Hatanaka
+Satsuki Hatanaka<br>
 on HackingHR #1
 
 ---
