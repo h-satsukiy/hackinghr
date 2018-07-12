@@ -1,7 +1,8 @@
 <div style="text-align: center;">
 
- <span style="font-size: 42pt">
-  メディア全方位戦は総力戦だった・・・ <br>
+ <span style="font-size: 48pt">
+  メディア全方位戦は<br>
+  総力戦だった・・・ <br>
  </span>
 
  <span style="font-size: 24pt">
@@ -12,6 +13,7 @@
 ---
 
 ### 自己紹介
+<br>
 
  - 畑中 五月（ハタナカ サツキ）
  - 新卒でドイツ製ERPパッケージの導入コンサル会社に入社し、SE・導入コンサルに長らく従事
