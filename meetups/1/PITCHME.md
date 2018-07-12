@@ -1,8 +1,7 @@
 <div style="text-align: center;">
 
  <span style="font-size: 62pt">
-  メディア全方位戦は<br>
-  総力戦だった・・・ <br>
+  メディア全方位戦は総力戦だった・・・ <br>
  </span>
  <br>
  <span style="font-size: 24pt">
