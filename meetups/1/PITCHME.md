@@ -22,8 +22,9 @@
 ---
 
 <div style="text-align: center;">
- <span style="font-size: 52pt">
-眼ヂカラに気圧されるようにReproにjoin<br>
+ <span style="font-size: 42pt">
+眼ヂカラに気圧されるように<br>
+一人目の人事としてReproにjoin<br>
 ![](/assets/pictures/yusuke_eyepower.png)
  </span>
 </div>
