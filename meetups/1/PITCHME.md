@@ -1,5 +1,4 @@
-## メディアをいっぱい
-## 使ってみた 
+## メディアをいっぱい使ってみた 
 
 Satsuki Hatanaka<br>
 on HackingHR #1
