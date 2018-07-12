@@ -11,18 +11,17 @@
 
 ---
 
-### 自己紹介
-<br>
+## 自己紹介
 
- - 畑中 五月（ハタナカ サツキ）
- - 新卒でドイツ製ERPパッケージの導入コンサル会社に入社し、SE・導入コンサルに長らく従事
- - その後知人のツテで代表の平田に会い、、、
+畑中 五月（ハタナカ サツキ）
+
+新卒でドイツ製ERPパッケージの導入コンサル会社に入社し、SE・導入コンサルに長らく従事
+
+その後知人のツテで代表の平田に会い、、、
  
 ---
 
-<div style="text-align: center;">
- <span style="font-size: 36pt">
-眼ヂカラに気圧されるようにReproにjoin
+## 眼ヂカラに気圧されるようにReproにjoin
 ![](/assets/pictures/yusuke_eyepower.png)
  </span>
  <br>
@@ -34,18 +33,8 @@ on 2017-05-08
 ---
 
 <div style="text-align: center;">
- <span style="font-size: 52pt">
-採用、<br>
-よろしくね！！<br>
- </span>
-</div>
-
----
-
-<div style="text-align: center;">
- <span style="font-size: 52pt">
-メディア、<br>
-なんとかしてね！！<br>
+ <span style="font-size: 62pt">
+採用、よろしくね！！<br>
  </span>
 </div>
 
@@ -53,6 +42,14 @@ on 2017-05-08
 
 <div style="text-align: center;">
  <span style="font-size: 62pt">
+メディア、なんとかしてね！！<br>
+ </span>
+</div>
+
+---
+
+<div style="text-align: center;">
+ <span style="font-size: 72pt">
 え！？
  </span>
 </div>
@@ -60,7 +57,7 @@ on 2017-05-08
 ---
 
 <div style="text-align: center;">
- <span style="font-size: 48pt">
+ <span style="font-size: 52pt">
 ＿人人人人人人人人人人人＿<br>
 ＞　採用未経験だけど！？　＜<br>
 ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣<br>
