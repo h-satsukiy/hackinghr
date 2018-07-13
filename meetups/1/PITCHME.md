@@ -151,7 +151,6 @@ on HackingHR #1
 ### フィードを投稿することで？
 
 ![](/assets/images/naoki_interview.png)
-
 <br>
 [「Reproは僕にとって精神と時の部屋」](https://www.wantedly.com/companies/repro/post_articles/115672)
 
