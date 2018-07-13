@@ -254,6 +254,8 @@ Biz・Dev合わせて20ポジション　* 10媒体・・・
 
 ## We're hiring!
 
+![](/assets/pictures/all_repro.png)
+
 ---
 
 ### ご清聴ありがとうございました
