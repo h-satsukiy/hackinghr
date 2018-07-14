@@ -10,6 +10,8 @@ on HackingHR #1
 - 畑中 五月
 - HR@Repro from 2017-05-08
 - 人事未経験→Repro 1人目の人事（現在進行中）
+
+![](/assets/images/logo_repro.png)
  
 ---
 
