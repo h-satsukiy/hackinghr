@@ -88,13 +88,18 @@ on HackingHR #1
 ## メディアを選ぶ基準は？
 
 - その時点で、エントリー数が多いもの
- - 私が入社してから7ヶ月間で、約200エントリー有り
 - 運用コストが低いもの
- - 月3万円とちょっと
+ - 基本的に月額制が多く、月10万超えのメディアがザラ
 - 人材プールが自社にマッチしている
- - スタートアップやベンチャー界隈の人が多く利用
+ - 候補者数が多くても、大企業志向の人が多いとスタートアップは厳しい戦いに
 - （お金で解決以外の）打ち手が多いもの
  - お金を積まないと上位表示されない、求人数増やせないのは厳しい
+ 
+---
+
+## 運用コストだけで見ても
+
+![](/assets/images/cost_fee.png)
 
 ---
 
@@ -104,10 +109,15 @@ on HackingHR #1
 
 ---
 
-### Wantedlyにはこんな強みも
-![](/assets/images/heatmap.png)
+## Why Wantedly?
 
-出典：[Linkedin](https://business.linkedin.com/talent-solutions/blog/job-descriptions/2018/job-description-heatmap)
+- 私が入社してから半年で、100エントリー以上有り
+- 運用コストは月額3万円とちょっと
+ - ※スカウトコストは含まず
+- 利用者は、スタートアップやベンチャー界隈の人が多い
+- 求人情報出し放題
+- 求人に報酬を記載する必要のない、ほぼ唯一のメディア
+ - 出典：[Linkedin](https://business.linkedin.com/talent-solutions/blog/job-descriptions/2018/job-description-heatmap)
 
 ---
 
