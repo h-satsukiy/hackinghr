@@ -265,6 +265,6 @@ on HackingHR #1
 
 ---
 
-## [We're hiring!](https://www.wantedly.com/projects/211412)
+## __[We're hiring!](https://www.wantedly.com/projects/211412)__
 
 ![](/assets/pictures/all_repro.png)
