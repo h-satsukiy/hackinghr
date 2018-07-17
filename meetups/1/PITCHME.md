@@ -84,6 +84,10 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ---
 
+（当たり前・・・）
+
+---
+
 ## メディアを選ぶ基準は？
 
 - その時点で、エントリー数が多いもの
