@@ -49,7 +49,7 @@ on HackingHR #1
 
 ---
 
-- Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, サンカク...
+Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, サンカク...
 
 ---
 
