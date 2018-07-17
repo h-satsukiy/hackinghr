@@ -155,7 +155,7 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ---
 
-### やってみた結果・・・
+## やってみた結果
 
 ### 求人閲覧数：23％up
 ### 求人ブックマーク数：43％up
@@ -173,10 +173,10 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ---
 
-### やってみて？
+## やってみて？
 
-### 求人閲覧数：23％up
-### 求人ブックマーク数：43％up
+### フィード閲覧数：152％up
+### フィードいいね！数：656％up
 
 ---
 
@@ -284,10 +284,6 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 - 風呂敷を広げすぎると死ぬ
   - リソース ＝ 人数 ＊ 時間
 - 自社に合ったメディアの選定基準を作る
-
----
-
-（あれ、Wantedlyが良いのは最初からわかってたかも・・・）
 
 ---
 
