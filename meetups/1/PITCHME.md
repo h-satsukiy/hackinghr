@@ -103,13 +103,7 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 ### ちなみに
 - 求人に報酬を記載する必要のない、ほぼ唯一のメディア
  - 出典：[Linkedin](https://business.linkedin.com/talent-solutions/blog/job-descriptions/2018/job-description-heatmap)
-
----
-
-### 他のメディアはどうした？
-
-- 間口は広げておいて損はないだろうと思い、とりあえず放置・・・
-
+ 
 ---
 
 ### 選んだメディア、どう使う？
