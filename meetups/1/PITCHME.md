@@ -147,8 +147,8 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
    - 求人内容のブラッシュアップ
  - 一緒に仕事をする人でattract
    - フィードの活用
-    - 社員インタビュー
-    - イベントレポート
+     - 社員インタビュー
+     - イベントレポート
 
 ---
 
