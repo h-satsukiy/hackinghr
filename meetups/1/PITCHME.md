@@ -229,10 +229,6 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ---
 
-### とはいえ...
-
----
-
 ### Wantedlyでちょっと結果も出せるようになってきたので、他媒体に横展開
 
 ---
