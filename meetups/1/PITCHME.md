@@ -23,22 +23,19 @@ on HackingHR #1
 
 ## 今日のお品書き
 
-### 話すこと
-- どんな基準で、利用するメディアを取捨選択したか
-- どんな戦略で、選んだメディアを運用しているか
+- 話すこと
+ - どんな基準で、利用するメディアを取捨選択したか
+ - どんな戦略で、選んだメディアを運用しているか
 
-### 話さないこと
-- メディア別Hackingソリューション
-- エントリー数を爆上げする募集要項の書き方
-- 返信率50％以上！驚異のスカウトメールの書き方
+- 話さないこと
+ - メディア別Hackingソリューション
+ - エントリー数を爆上げする募集要項の書き方
+ - 返信率50％以上！驚異のスカウトメールの書き方
 
 ---
 
 ### 私、人事未経験者でした・・・
-
----
-
-### ついついやりたくなってしまったこと
+### ついつい・・・
 
 ---
 
@@ -91,12 +88,12 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 ## メディアを選ぶ基準は？
 
 - その時点で、エントリー数が多いもの
+- （お金で解決以外の）打ち手が多いもの
+ - お金を積まないと上位表示されない、求人数増やせないのは厳しい
 - 運用コストが低いもの
  - 基本的に月額制が多く、月10万超えのメディアがザラ
 - 人材プールが自社にマッチしている
  - 登録会員数が多くても、大企業志向の人が多いとスタートアップは厳しい戦いに
-- （お金で解決以外の）打ち手が多いもの
- - お金を積まないと上位表示されない、求人数増やせないのは厳しい
  
 ---
 
@@ -106,9 +103,7 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ---
 
-## 選んだのは、
-
-## Wantedly
+## Wantedly！
 
 ---
 
@@ -206,6 +201,10 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ---
 
+### アウトバウンド戦略は、スカウト命！
+
+---
+
 ### まず、アタックリストを作る
 
 - 即戦力となりえる候補者をどれだけたくさんピックアップできるかが大事
@@ -217,6 +216,7 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
  - ログイン日付や転職確度などを細かくフィルタリング
 
 - リファレンスを取る
+ - プロフィールは舐めるようにチェック
  - Facebook連携機能を活用し、徹底的に自社に合う人材かどうかをチェック
 
 ---
@@ -244,11 +244,6 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ---
 
-偉そうに言える数字ではない・・・
-アタックリストが悪いのか、スカウト文面が悪いのか現在検討中・・・
-
----
-
 ### とはいえ...
 
 ---
@@ -261,17 +256,7 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ---
 
-### Why Green?
-
-- エントリー数は少ないが、2人の採用実績有り
-- 成果報酬のため、運用コストは低い
-- 会員はIT従事者が多い
-
----
-
-### 運用結果
-
-現在計測中！
+## 鋭意運用中！
 
 ---
 
@@ -290,9 +275,12 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 ### メディアの運用
 
 - メディア運営にも戦略が必要
- - 候補者には自社の何が刺さるのかを考え、その武器を磨く
- - 量（自社に合う候補者の数）とプレミアム感溢れるスカウトを打つ
-- メディア運営は、一人では無理
+ - インバウンド戦略：人材、事業、ロール・・・自社の武器を磨き、候補者をattractする
+ - アウトバウンド戦略：プレミアム感溢れるスカウトを、自社に合った候補者に大量に打つ
+ 
+---
+
+- メディア運営は、一人ではとても無理
 - 社員の協力を得ることも、重要なお仕事
 
 ---
@@ -310,7 +298,6 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 ## __[We're hiring!](https://www.wantedly.com/projects/211412)__
 
 ![](/assets/pictures/all_repro.png)
-
 
 ---
 
