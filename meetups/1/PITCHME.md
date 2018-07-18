@@ -142,10 +142,10 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ### 次に、エントリーしてもらう
 
-- 候補者に魅力を感じてもらう
- - job description、事業、ロールでattract
+- 候補者に魅力を感じてもらうための武器を研ぎ澄ます
+ - job description、事業、ロール
    - 求人内容のブラッシュアップ
- - 一緒に仕事をする人でattract
+ - 一緒に仕事をする人
    - フィードの活用
      - 社員インタビュー
      - イベントレポート
