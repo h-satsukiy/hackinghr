@@ -167,7 +167,7 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ---
 
-### 会社のことを知ってもらう機会に！
+### 広く会社のことを知ってもらう機会に！
 
 - クライアントやAgentにも、会社のことを知ってもらえるという副次効果が！
 
