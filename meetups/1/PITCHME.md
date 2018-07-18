@@ -210,7 +210,7 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 - スカウトにプレミアム感を出す
  - あなたが必要なんです！を全力アピール
- - 社長やエース社員から、スカウトを売ってもらう
+ - 社長やエース社員から、スカウトを打ってもらう
 
 ---
 
