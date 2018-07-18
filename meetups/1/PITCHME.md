@@ -225,7 +225,8 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ### やってみた結果
 
-## 返信率が10％台から20%超えに！
+## 返信率が10％台から
+## 20%超えに！
 
 ---
 
