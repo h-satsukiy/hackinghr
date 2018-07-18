@@ -12,12 +12,6 @@ on HackingHR #1
 - 人事未経験→Repro 1人目の人事（現在進行中）
 
 ![](/assets/images/logo_repro.png)
- 
----
-
-### この人に誘われました
-
-![](/assets/pictures/yusuke_eyepower.png)
 
 ---
 
@@ -35,7 +29,6 @@ on HackingHR #1
 ---
 
 ### 私、人事未経験者でした・・・
-### ついつい・・・
 
 ---
 
@@ -63,8 +56,9 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 ## 当たり前ですが・・・
 
 - PDCA回せない
-- 求人内容の質がバラバラ
-- 応募者の質もバラバラ
+- 求人内容がバラバラ
+- 応募者のレベル感もバラバラ
+- バラバラバラバラ・・・
 
 ---
 
@@ -81,19 +75,12 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ---
 
-（当たり前・・・）
-
----
-
 ## メディアを選ぶ基準は？
 
 - その時点で、エントリー数が多いもの
 - （お金で解決以外の）打ち手が多いもの
- - お金を積まないと上位表示されない、求人数増やせないのは厳しい
 - 運用コストが低いもの
- - 基本的に月額制が多く、月10万超えのメディアがザラ
 - 人材プールが自社にマッチしている
- - 登録会員数が多くても、大企業志向の人が多いとスタートアップは厳しい戦いに
  
 ---
 
@@ -111,7 +98,6 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 - 私が入社してから半年で、100エントリー以上有り
 - 運用コストは月額3万円とちょっと
- - ※スカウトコストは含まず
 - 利用者は、スタートアップやベンチャー界隈の人が多い
 - 求人情報出し放題
 
@@ -159,12 +145,13 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 
 ### 次に、エントリーしてもらう
 
-- job description、事業、ロールでattract
- - 求人内容のブラッシュアップ
-- 一緒に仕事をする人でattract
- - フィードの活用
-   - 社員インタビュー
-   - イベントレポート
+- 候補者に魅力を感じてもらう
+ - job description、事業、ロールでattract
+   - 求人内容のブラッシュアップ
+ - 一緒に仕事をする人でattract
+   - フィードの活用
+    - 社員インタビュー
+    - イベントレポート
 
 ---
 
