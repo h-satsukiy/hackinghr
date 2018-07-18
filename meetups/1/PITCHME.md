@@ -143,7 +143,7 @@ Wantedly, Green, Libs Career, Switch, Codeal, Folkwell, Bizreach, DODA, Infra, �
 ### 次に、エントリーしてもらう
 
 - 候補者に魅力を感じてもらうための武器を研ぎ澄ます
- - job description、事業、ロール
+ - 事業内容、仕事内容、任せるロール
    - 求人内容のブラッシュアップ
  - 一緒に仕事をする人
    - フィードの活用
