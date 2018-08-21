@@ -167,13 +167,17 @@ on HackingHR #2
 ---
 
 ### 一人ひとりに合った、対応が必要です
-### つまり、one-to-one marketing
+### つまり、personalized！
 
 ---
 ### オススメ本
 
 - from CEO Yusuke
  - Data-Driven Marketing
+ 
+- from CSmanager Tsubasa
+ - リファーラル・マーケティング
+ - アドボカシー・マーケティング
 
 - from CSteam Toru
  - 大型商談を成約に導く「SPIN」営業術
