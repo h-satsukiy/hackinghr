@@ -172,10 +172,9 @@ on HackingHR #2
 ---
 ### オススメのマーケ本
 
-from CSmanager Tsubasa
-- あ
-
 from CEO Yusuke
-- あ
+- Data-Driven Marketing
 
+from CSteam Toru
+- 大型商談を成約に導く「SPIN」営業術
 
