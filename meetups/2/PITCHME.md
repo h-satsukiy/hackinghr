@@ -170,11 +170,11 @@ on HackingHR #2
 ### つまり、one-to-one marketing
 
 ---
-### オススメのマーケ本
+### オススメ本
 
-from CEO Yusuke
-- Data-Driven Marketing
+- from CEO Yusuke
+ - Data-Driven Marketing
 
-from CSteam Toru
-- 大型商談を成約に導く「SPIN」営業術
+- from CSteam Toru
+ - 大型商談を成約に導く「SPIN」営業術
 
