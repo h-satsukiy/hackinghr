@@ -176,8 +176,9 @@ on HackingHR #2
  - Data-Driven Marketing
  
 - from CSmanager Tsubasa
- - リファーラル・マーケティング
- - アドボカシー・マーケティング
+ - One to One マーケティング
+ - リファーラルマーケティング
+ - アドボカシーマーケティング
 
 - from CSteam Toru
  - 大型商談を成約に導く「SPIN」営業術
