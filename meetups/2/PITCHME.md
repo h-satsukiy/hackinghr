@@ -172,13 +172,13 @@ on HackingHR #2
 ---
 ### オススメ本
 
-- from CEO Yusuke
- - Data-Driven Marketing
- 
 - from CSmanager Tsubasa
  - One to One マーケティング
  - リファーラルマーケティング
  - アドボカシーマーケティング
+ 
+- from CEO Yusuke
+ - Data-Driven Marketing
 
 - from CSteam Toru
  - 大型商談を成約に導く「SPIN」営業術
