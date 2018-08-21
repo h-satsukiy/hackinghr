@@ -168,3 +168,14 @@ on HackingHR #2
 
 ### 一人ひとりに合った、対応が必要です
 ### つまり、one-to-one marketing
+
+---
+### オススメのマーケ本
+
+from CSmanager Tsubasa
+- あ
+
+from CEO Yusuke
+- あ
+
+
