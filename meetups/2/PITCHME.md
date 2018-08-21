@@ -177,4 +177,7 @@ on HackingHR #2
 
 - from CSteam Toru
  - 大型商談を成約に導く「SPIN」営業術
+ 
+## 採用にマーケティングを取り入れて
+## 最高の人事LIFEを！
 
