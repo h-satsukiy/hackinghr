@@ -9,7 +9,7 @@ on Repro Deep Dive #1
 
 ---
 
-# Deep Diveするために
+# Deep Diveするには？
 ## スタートアップの実態を知る
 
 ---
