@@ -24,7 +24,8 @@ on Repro Deep Dive #1
 
 ---
 
-## Startup = Growth（paulgraham.com）
+## Startup = Growth
+（paulgraham.com）
 - 世の中にイノベーションをもたらし、短期間にめちゃくちゃなスピードで成長して、Exitを目指す集団
 
 ---
