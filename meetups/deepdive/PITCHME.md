@@ -130,7 +130,7 @@ on Repro Deep Dive #1
 ---
 
 ## 現在のReproはこのあたり
-![](/assets/images/survival curve.png)
+![](/assets/images/survival_curve.png)
 [The US Startup Survival Curve](https://jp.techcrunch.com/2017/05/20/20170517heres-how-likely-your-startup-is-to-get-acquired-at-any-stage/)
     
 ---    
