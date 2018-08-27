@@ -65,7 +65,10 @@ on Repro Deep Dive #1
 
 ---
 
-## Repro is B2B SaaS business
+## Repro is<br>B2B SaaS<br>business
+
+---
+
 ## Repro is MA service
 - MA：Marketing Automation
   -マスマーケティングと違って、興味・関心や行動が異なる個別な顧客と の個別なコミュニケーションを行うデジタルマーケティングにおいて、その煩雑な業務を自動化するために開発されたツールや仕組み
