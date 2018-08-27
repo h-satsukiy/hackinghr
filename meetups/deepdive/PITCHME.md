@@ -124,7 +124,11 @@ on Repro Deep Dive #1
 
 ---
 
-# スタートアップの分類とReproのポジション
+# スタートアップの分類と
+# Reproのポジション
+
+---
+
 ## 現在のReproはこのあたり
 [The US Startup Survival Curve](https://jp.techcrunch.com/2017/05/20/20170517heres-how-likely-your-startup-is-to-get-acquired-at-any-stage/)
     
