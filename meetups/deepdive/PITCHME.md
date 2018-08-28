@@ -1,4 +1,4 @@
-# What's Repro？
+# Deep Diveの手引き
 
 Satsuki Hatanaka<br>
 on Repro Deep Dive #1
@@ -6,11 +6,6 @@ on Repro Deep Dive #1
 ---
 
 # はじめに
-
----
-
-# Deep Dive
-# するために・・・
 
 ---
 
