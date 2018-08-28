@@ -50,10 +50,12 @@ on Repro Deep Dive #1
 
 ---
 
-### 所有から利用へ
-
-- SaaS企業の急成長
-- サブスクリプションモデルの隆盛
+### SaaS企業の急成長
+- salesforce
+- Dropbox
+- microsoft
+- freee
+- smartHR
 
 ---
 
