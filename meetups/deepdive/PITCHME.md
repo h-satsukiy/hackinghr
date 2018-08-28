@@ -63,7 +63,7 @@ on Repro Deep Dive #1
 ---
 
 # Repro is
-# B2B SaaS business
+# B2B SaaS Company
 
 ---
 
