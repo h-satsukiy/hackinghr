@@ -39,7 +39,7 @@ ref：[Diamond online](https://diamond.jp/articles/-/119041)
 ---
 
 ## スタートアップのトレンド
-## B2B SaaS
+# B2B SaaS
 
 ---
 
