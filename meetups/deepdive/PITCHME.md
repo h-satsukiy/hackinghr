@@ -33,10 +33,6 @@ on Repro Deep Dive #1
 
 ---
 
-## B2C、B2Bどっちもあるよね？
-
----
-
 ## Startupのトレンド
 
 ---
