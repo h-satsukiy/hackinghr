@@ -9,7 +9,7 @@ on Repro Deep Dive #1
 
 ---
 
-# How to Deep Dive?
+# Deep Diveするために・・・
 
 ---
 
