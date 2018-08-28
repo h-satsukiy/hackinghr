@@ -57,7 +57,7 @@ ref：[経済産業省「我が国経済社会の情報化・サービス化に�
 - 海外
   - salesforce,slack,marketo,zendesk,paypal
 - 国内
-  - **Repro**,freee,smartHR
+  - freee,smartHR,**Repro**
 
 ---
 
