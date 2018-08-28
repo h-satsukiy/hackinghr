@@ -1,4 +1,4 @@
-# Deep Dive （羅針盤）
+# The Map for Deep Dive
 
 Satsuki Hatanaka<br>
 on Repro Deep Dive #1
