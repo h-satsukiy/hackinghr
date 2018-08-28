@@ -1,4 +1,4 @@
-# Deep Diveのご案内
+# Deep Diveへのご案内
 
 Satsuki Hatanaka<br>
 on Repro Deep Dive #1
@@ -48,8 +48,8 @@ on Repro Deep Dive #1
 
 ---
 
-### Software as a 
-### Service（SaaS）
+### Software as a Service
+### （SaaS）
 インターネット経由で、利用者が必要なときに必要な分だけだけクラウド経由でサービスを利用
 
 ---
