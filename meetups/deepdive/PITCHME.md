@@ -1,4 +1,4 @@
-# Deep Diveのご案内
+# Deep Dive （羅針盤）
 
 Satsuki Hatanaka<br>
 on Repro Deep Dive #1
