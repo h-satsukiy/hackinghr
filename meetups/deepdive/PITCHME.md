@@ -108,31 +108,30 @@ ref：[経済産業省「我が国経済社会の情報化・サービス化に�
 
 ---
 
-## Survive
+## [The US Startup Survival Curve](https://jp.techcrunch.com/2017/05/20/20170517heres-how-likely-your-startup-is-to-get-acquired-at-any-stage/)
 
 ![](/assets/images/survival_curve.png)
-
-[The US Startup Survival Curve](https://jp.techcrunch.com/2017/05/20/20170517heres-how-likely-your-startup-is-to-get-acquired-at-any-stage/)
     
 ---    
 
-# そして、これから
-Reproが飛躍的に成長し続けるため、国内ビジネスの拡充・海外展開の準備、優秀な人材の採用などビジネス面での攻めはもちろん、攻めを支える強固な組織体制の構築など守りを固めることも必要
+## ネクストステージ
+
+- Web領域への展開
+- AIを使った高度な自動化
+- アジアを中心とした海外展開
 
 ---
 
-# けっこう大変😱
+# れっつら海外💪
 
 ---
 
-### こんなタイミングでReproに
-### 入るって決めた片岡さん、
+## そんなReproを選んだ片岡さん
+
+- どんなことを考え
+- なぜReproを選んだのか
 
 ---
 
-### どんなことを考え、
-### なぜReproを選んだのか
-
----
-# お願いします！🤩
+# 🤩お願いします🤩
 
