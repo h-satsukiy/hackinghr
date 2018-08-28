@@ -33,7 +33,7 @@ on Repro Deep Dive #1
 
 ---
 
-## B2B、B2Cどっちもあるよね？
+## B2C、B2Bどっちもあるよね？
 
 ---
 
