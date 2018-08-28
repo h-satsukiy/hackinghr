@@ -1,4 +1,4 @@
-# Deep Diveへのご案内
+# Deep Diveのご案内
 
 Satsuki Hatanaka<br>
 on Repro Deep Dive #1
