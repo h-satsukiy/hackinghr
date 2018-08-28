@@ -34,7 +34,7 @@ ref：[Diamond online](https://diamond.jp/articles/-/119041)
 
 ---
 
-# なるほど
+# なるほど🤔
 
 ---
 
