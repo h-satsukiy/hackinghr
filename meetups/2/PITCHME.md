@@ -1,4 +1,4 @@
-## 策士策に溺れる
+## 策士策に溺れた
 
 
 Satsuki Hatanaka<br>
