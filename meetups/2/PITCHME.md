@@ -27,7 +27,7 @@ on HackingHR #2
 
 ---
 
-# 背景
+## マネージャー採用の背景
 ![](/assets/pictures/curry.png)
 
 ---
