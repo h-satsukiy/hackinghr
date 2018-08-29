@@ -28,7 +28,7 @@ on HackingHR #2
 ---
 
 # 背景
-![](/assets/pictures/curry.png)
+![](/assets/pictures/curry.jpg)
 
 ---
 
