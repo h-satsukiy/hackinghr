@@ -28,7 +28,7 @@ on HackingHR #2
 ---
 
 # 背景
-
+![](/assets/pictures/curry.png)
 
 ---
 
@@ -41,6 +41,8 @@ on HackingHR #2
 マネジメント不要のスペシャリスト集団から
 ### ある程度マネジメントを必要とする
 ### 会社っぽい組織へ
+
+![](/assets/pictures/all_repro.png)
     
 ---
 
