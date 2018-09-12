@@ -39,17 +39,17 @@
 ---
 
 ### お楽しみ限定メニューとかもあり！
-![](/assets/pictures/shokudo_2.jpg) 
+![](/assets/pictures/syokudo_2.jpg) 
 
 ---
 
 ### 食堂はけっこう広い！
-![](/assets/pictures/shokudo_3.jpg) 
+![](/assets/pictures/syokudo_3.jpg) 
 
 ---
 
 ### お昼時を外せば、フリースペースとしてMTGも可能
-![](/assets/pictures/shokudo_1.jpg) 
+![](/assets/pictures/syokudo_1.jpg) 
 
 ---
 
