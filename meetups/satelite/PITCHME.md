@@ -21,7 +21,7 @@
 ---
 
 ### この写真の2.5倍
-![](/assets/pictures/room.jpg) 
+![](/assets/pictures/room.jpg)
 
 ---
 
@@ -30,38 +30,38 @@
 ---
 
 ### お茶・お水飲み放題
-![](/assets/pictures/lounge.jpg) 
+![](/assets/pictures/lounge.jpg)
 
 ---
 
 ### 入居者専用の社食あり！
-![](/assets/pictures/menu.jpg) 
+![](/assets/pictures/menu.jpg)
 
 ---
 
 ### お楽しみ限定メニューとかもあり！
-![](/assets/pictures/syokudo_2.jpg) 
+![](/assets/pictures/syokudo_2.jpg)
 
 ---
 
 ### 食堂はけっこう広い！
-![](/assets/pictures/syokudo_3.jpg) 
+![](/assets/pictures/syokudo_3.jpg)
 
 ---
 
 ### お昼時を外せば、フリースペースとしてMTGも可能
-![](/assets/pictures/syokudo_1.jpg) 
+![](/assets/pictures/syokudo_1.jpg)
 
 ---
 
 ### 地下には飲食店・郵便局等あり！
 ![](/assets/pictures/restaurant_1.png)
-![](/assets/pictures/restaurant_2.png) 
+![](/assets/pictures/restaurant_2.png)
 
 ---
 
 ### 17時までであれば、おしゃれなラウンジも使用可能！
-![](/assets/pictures/big_lounge.jpg) 
+![](/assets/pictures/big_lounge.jpg)
 
 ただし、Park Tower Card（3枚付与）が必要
 
@@ -134,3 +134,8 @@
 
 # 最高の
 ## 🎉パークタワーLIFEを！🎉
+
+---
+
+# ブランチテスト
+#＃ うまくmergeできるかな？？
