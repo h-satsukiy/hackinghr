@@ -1,6 +1,6 @@
----?image=/assets/images/logo_repro.png
 
 # アフターパーティー
+![](/assets/images/logo_repro.png)
 
 ---
 
