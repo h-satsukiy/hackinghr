@@ -1,9 +1,6 @@
----?image=/assets/images/logo_repro.png&size=auto 80%&position=top
+---?image=/assets/images/logo_repro.png
 
-@snap[south title-box]
-<h2>アフターパーティー</h2>
-<br>
-@snapend
+# アフターパーティー
 
 ---
 
