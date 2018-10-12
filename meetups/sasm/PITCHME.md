@@ -1,5 +1,5 @@
 
-# アフターパーティー
+## 🍻アフターパーティー🍹
 ![](/assets/images/logo_repro.png)
 
 ---
