@@ -2,7 +2,7 @@
 
 Satsuki Hatanaka
 
-on 長期インターン合説！ 本気なヤツ集合！！
+on 長期インターン合説！ 本気なヤツ集合！！
 
 ---
 
@@ -188,6 +188,6 @@ https://techcrunch.com/2015/02/01/the-saas-travel-adventure/
 
 ---
 
-## We are hiring!
+# We are hiring!
 
 ![](/meetups/20190326_intern/wantedly_qr.png)
