@@ -2,17 +2,15 @@
 
 Satsuki Hatanaka
 
-on 長期インターン合説！ 本気なヤツ集合！！
+on 長期インターン合説！ 本気なヤツ集合！！
 
 ---
 
-こんにちは！
+# こんにちは！
 
 ---
 
 # Who?
-
-![](/assets/images/logo_repro.png)
 
 - Satsuki Hatanaka
 - HR@Repro from 2017-05-08
@@ -21,7 +19,7 @@ on 長期インターン合説！ 本気なヤツ集合！！
 
 ---
 
-# 今日のお品書き
+# 今日お話すること
 
 - Reproって？
 - Reproが目指すところ
@@ -32,7 +30,7 @@ on 長期インターン合説！ 本気なヤツ集合！！
 
 ---
 
-# 今日話さないこと
+# 今日お話しないこと
 
 - 具体的なインターンの業務内容
 
@@ -42,7 +40,7 @@ on 長期インターン合説！ 本気なヤツ集合！！
 
 ---
 
-## Marketing Automation Tool
+# Marketing Automation Tool
 
 ---
 
@@ -50,16 +48,18 @@ on 長期インターン合説！ 本気なヤツ集合！！
 
 ---
 
-### The Right Message
-### to the Right Person
-### at the Right Time
+## The Right Message
+## to the Right Person
+## at the Right Time
 
 ---
 
 ## メンバーに期待すること
 
 （実際に利用しているオンボーディング資料より抜粋）
+
 顧客のサービスを成長させるために必要なものを考え、解決策を実現できることです。
+
 Reproは創業の初年度からグローバル・スタンダードのツールであることを目標として開発しています。常に視座は高く持ち、事業の方向性を考えるよう心がけて下さい。
 
 ---
@@ -81,7 +81,9 @@ Reproは創業の初年度からグローバル・スタンダードのツール
 
 イケイケB2B SaaSの成長曲線
 
-![](/assets/images/survival_curve.png)
+![](/assets/images/t2d3.png)
+
+https://techcrunch.com/2015/02/01/the-saas-travel-adventure/
 
 ---
 
@@ -89,7 +91,7 @@ Reproは創業の初年度からグローバル・スタンダードのツール
 
 ---
 
-## 突然ですが、
+# 突然ですが、
 
 ---
 
@@ -109,6 +111,7 @@ Reproは創業の初年度からグローバル・スタンダードのツール
 ## インターンシップの実施目的
 
 ![](/meetups/20190326_intern/purpose.png)
+
 引用：就職白書2018　－インターンシップ編－
 
 ---
@@ -116,6 +119,7 @@ Reproは創業の初年度からグローバル・スタンダードのツール
 ## インターンシップのプログラム内容
 
 ![](/meetups/20190326_intern/programn.png)
+
 引用：就職白書2018　－インターンシップ編－
 
 ---
@@ -123,11 +127,12 @@ Reproは創業の初年度からグローバル・スタンダードのツール
 ## インターンシップの実施期間
 
 ![](/meetups/20190326_intern/period.png)
+
 引用：就職白書2018　－インターンシップ編－
 
 ---
 
-![](/meetups/20190326_intern/anzai_01.png)
+![](/meetups/20190326_intern/anzai_01.jpg)
 
 ---
 
@@ -142,7 +147,7 @@ Reproは創業の初年度からグローバル・スタンダードのツール
 
 ---
 
-![](/meetups/20190326_intern/baki_01.png)
+![](/meetups/20190326_intern/baki_01.jpg)
 
 ---
 
@@ -170,13 +175,13 @@ Reproは創業の初年度からグローバル・スタンダードのツール
 
 ---
 
-![](/meetups/20190326_intern/issei_01.png)
+![](/meetups/20190326_intern/issei.png)
 
 [挑戦し続ければ追い風が吹く。入社3年めのインターン生が海外駐在員に抜擢されるまで](https://www.wantedly.com/companies/repro/post_articles/138031)
 
 ---
 
-![](/meetups/20190326_intern/inada_01.png)
+![](/meetups/20190326_intern/inada.png)
 
 [”学生さん”ではなく”チームの一員” -- 望んでいた環境はReproにあった](https://www.wantedly.com/companies/repro/post_articles/132449)
 
