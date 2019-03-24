@@ -132,7 +132,8 @@ https://techcrunch.com/2015/02/01/the-saas-travel-adventure/
 
 ---
 
-![](/meetups/20190326_intern/anzai_01.jpg)
+# え？
+# 意味ある？
 
 ---
 
