@@ -20,34 +20,34 @@ Repro CTO兼非公式CSO(Chief SAKE Officer)
 
 ### 萩の鶴 夏の猫ラベル純吟別仕込
 
-![](https://github.com/h-satsukiy/slide/blob/master/meetups/sakebash/haginotsuru.png?raw=true)
+![](https://github.com/h-satsukiy/slides/blob/master/meetups/sakebash/haginotsuru.png?raw=true)
 
 宮城、ピチピチガス感。飲みやすめ。
 
 ### 山和 中取原酒Rock
 
-![](https://github.com/h-satsukiy/slide/blob/master/meetups/sakebash/yamawa.png?raw=true)
+![](https://github.com/h-satsukiy/slides/blob/master/meetups/sakebash/yamawa.png?raw=true)
 
 宮城、氷入れて飲むタイプ。ガチの日本酒の中では比較的ワイン寄りの綺麗な作りの蔵。
 味濃いけど氷入れて飲むにはよし。
 
 ### 竹雀 純米おりがらみ生
 
-![](https://github.com/h-satsukiy/slide/blob/master/meetups/sakebash/takesuzume.png?raw=true)
+![](https://github.com/h-satsukiy/slides/blob/master/meetups/sakebash/takesuzume.png?raw=true)
 
 岐阜、夏酒でも無いけど、澱（おり）が舞ってて、竹雀自体のやらかさも相まってちょいなめらかな印象。
 バリエーションとしては良さげ。常温〜お燗も。
 
 ### るみ子の酒 ブルーボトル純米無濾過生
 
-![](https://github.com/h-satsukiy/slide/blob/master/meetups/sakebash/rumiko.png?raw=true)
+![](https://github.com/h-satsukiy/slides/blob/master/meetups/sakebash/rumiko.png?raw=true)
 
 三重、夏酒。 無濾過生(つまり濃いめ) の荒ばしり(ドライ目）に加水して14度までアルコール落としている。
 バランスとれたスイスイ系。あまり冷やさず常温で。
 
 ### 長珍 純吟うすにごり生
 
-![](https://github.com/h-satsukiy/slide/blob/master/meetups/sakebash/nagachin.png?raw=true)
+![](https://github.com/h-satsukiy/slides/blob/master/meetups/sakebash/nagachin.png?raw=true)
 
 愛知。これもピチピチ系。バランス良い。繊細だがしっかりした酒質。まだ若いし冷〜常温かなぁ。
 
